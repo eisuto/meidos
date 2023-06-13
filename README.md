@@ -1,2 +1,4 @@
 # meidos
-Meidos 是一个简洁的轻量级 CI/CD 应用
+Meidos 是一个轻量级、插件化的持续集成(CI) 应用
+
+
